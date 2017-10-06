@@ -1,0 +1,5 @@
+/config.json
+/jira_privatekey.pem
+/node_modules/* 
+/.vscode
+/yarn-error.log
